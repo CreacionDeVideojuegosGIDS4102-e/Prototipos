@@ -14,9 +14,9 @@
 
 ### Resultados
 
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/88550524-d3ca-44c4-ba10-638bf9b744c7">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/26da4f87-d90a-48e4-a88d-231b32fbf937">
 
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/42a88c96-1c64-4ed1-9121-01e0fc7cc761">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/47631847-6713-4cc3-a044-dbaf1e2fef40">
 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/2609c76c-ace2-48ec-8f86-04c8d3f7ad23">
 
@@ -52,6 +52,7 @@
 
 
 #### Evidencia de autoria
-<a href="https://github.com/user-attachments/files/17335319/Prototipo2_Evidencias.pdf">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"  alt="PDF" width="30"/>
+<a href="https://github.com/user-attachments/files/17335319/Prototipo2_Evidencias.pdf" download>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
+
