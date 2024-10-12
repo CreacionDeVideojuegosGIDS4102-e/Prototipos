@@ -36,11 +36,9 @@
 
 ### Resultados
 
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/2da7245d-ffcc-4ce9-8db4-9c07811a4227">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/f7e1e5fd-82c6-4f1c-87f7-30c6645f988e">
 
-
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/3f73fd07-d6f5-4821-98d3-05dc84b3e6b3">
-
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/04711e53-8378-4859-84b4-4655be9dfe84">
 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/df7b30ee-fbd0-40c8-a2d5-84bc4c191b18">
 
