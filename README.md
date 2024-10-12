@@ -47,7 +47,7 @@
 
 #### Link del proyecto
 
-<a href="https://github.com/CreacionDeVideojuegosGIDS4102/Prototipos/blob/main/prototipo_2.unitypackage">
+<a href="https://github.com/CreacionDeVideojuegosGIDS4102-e/Prototipos/blob/main/Prototipo%202.unitypackage">
    <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="30"/>
 </a>
 
