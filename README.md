@@ -6,7 +6,7 @@
 ## *Prototipos*
 
 ### *TABLA DE CONTENIDO*
-- [01: Prototipo-01.](#01-prototipo-01)
+- [01: Prototipo-01.](#01-Prototipo-01)
 - [02: Prototipo-02.](#02-prototipo-02)
 
 
