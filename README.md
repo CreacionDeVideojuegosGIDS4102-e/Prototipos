@@ -6,11 +6,11 @@
 ## *Prototipos*
 
 ### *TABLA DE CONTENIDO*
-- [01: Prototipo-01.](#01-Prototipo-01)
+- [01: Prototipo-01.](#01-prototipo-01)
 - [02: Prototipo-02.](#02-prototipo-02)
 
 
-## 01:Prototipo-01.
+## 01: Prototipo-01
 
 ### Resultados
 
@@ -32,11 +32,17 @@
 
 **Se omite para este primer prototipo* 
 
-## 02: Prototipo - 02
+## 02: Prototipo-02
 
 ### Resultados
 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/2da7245d-ffcc-4ce9-8db4-9c07811a4227">
 
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/3f73fd07-d6f5-4821-98d3-05dc84b3e6b3">
+
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/df7b30ee-fbd0-40c8-a2d5-84bc4c191b18">
 
 
 #### Link del proyecto
@@ -44,7 +50,6 @@
 <a href="https://github.com/CreacionDeVideojuegosGIDS4102/Prototipos/blob/main/prototipo_2.unitypackage">
    <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="30"/>
 </a>
-
 
 
 
