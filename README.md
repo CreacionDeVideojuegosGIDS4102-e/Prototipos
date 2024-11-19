@@ -9,6 +9,7 @@
 - [01: Prototipo-01.](#01-prototipo-01)
 - [02: Prototipo-02.](#02-prototipo-02)
 - [03: Prototipo-03.](#03-prototipo-03)
+- [04: Prototipo-04.](#04-prototipo-04)
 
 
 ## 01: Prototipo-01
@@ -75,6 +76,28 @@
 
 #### Evidencia de la auditoria
 <a href="https://drive.google.com/uc?export=download&id=1ImWe5Qu3J4wb3J49yeAAE7Eo-cUomQbe">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
+</a>
+
+## 04: Prototipo-04
+
+### Resultados
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/094c3936-58a6-4b65-9fc1-fc9bc64e5b2b">
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/a1dd4133-3e1b-45af-b876-d4770c381518">
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/3c4b311e-72f6-4cec-a03c-46de471b3a70">
+
+### Link del proyecto
+
+<a href="https://github.com/CreacionDeVideojuegosGIDS4102-e/Prototipos/blob/main/Prototipo%204.unitypackage">
+   <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="30"/>
+</a>
+
+#### Evidencia de la auditoria
+
+<a href="">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
 
